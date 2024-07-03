@@ -1,0 +1,35 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+li{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    
+}
+.list-card{
+    width: fit-content;
+    background-color: bisque;
+    border-radius: 30px;
+    padding: 10px;
+    box-shadow: 10px 10px 10px  salmon;
+    color: brown;
+}
+#para{
+    display: flex;
+    justify-content: center;
+    background-color: blueviolet;
+    padding: 20px;
+    border-radius: 30px;
+    margin-top: 30px;
+    font-size: 30px;
+    gap: 30px;
+}
+#para #para-card{
+    background-color: bisque;
+    border: 2px solid firebrick;
+    border-radius: 40px 20px ;
+    padding: 20px;
+    box-shadow: 10px 10px 10px goldenrod;
+}
